@@ -1,9 +1,3 @@
-# AI Driven Development
-
-**Roman Urdu Definition:**
-
-AI Driven Development ka matlab hota hai ke software ya applications banane ke process mein Artificial Intelligence ka istemaal karna. Is ka kehna yeh hai ke AI tools aur models developer ko code likhne, errors dhoondne, features design karne, aur development fast banane mein madad karte hain. AI insights provide karta hai, repetitive tasks autom ate karta hai, aur development zyada smart, fast aur efficient ho jata hai.
-
 # My Reflection: AI-Driven Development
 
 ## What AI-Driven Development Means to Me
@@ -50,3 +44,5 @@ And I’ll probably smile, remembering how strange and exciting it felt to trust
 ### AI won’t replace developers — it will amplify them.
 
 And I’m ready to grow with this AI-Driven Era.
+
+## Prepered by: Rabia Rizwan "Class Cordinator"
